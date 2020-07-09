@@ -5,13 +5,14 @@ db.sqlite3
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
 profiles/migrations/
+ProfileAppApi/__pycache__/
+profiles/__pycache__/
 
 ### Django ###
 *.log
 *.pot
 *.pyc
-ProfileAppApi/__pycache__/
-profiles/__pycache__/
+
 
 local_settings.py
 db.sqlite3
